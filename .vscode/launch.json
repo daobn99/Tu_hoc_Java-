@@ -1,0 +1,73 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "VD1",
+      "request": "launch",
+      "mainClass": "ToString.VD1",
+      "projectName": "Tu_hoc_Java-_f673aeab"
+    },
+    {
+      "type": "java",
+      "name": "Launch Java Program",
+      "request": "launch",
+      "mainClass": ""
+    },
+    {
+      "type": "java",
+      "name": "VD2",
+      "request": "launch",
+      "mainClass": "Inheritance.VD2",
+      "projectName": "Tu_hoc_Java-_f673aeab"
+    },
+    {
+      "type": "java",
+      "name": "daHinh",
+      "request": "launch",
+      "mainClass": "Polymorphism.daHinh",
+      "projectName": "Tu_hoc_Java-_f673aeab"
+    },
+    {
+      "type": "java",
+      "name": "keThua",
+      "request": "launch",
+      "mainClass": "keThua",
+      "projectName": "Tu_hoc_Java-_f673aeab"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "constructor.Main",
+      "projectName": "Tu_hoc_Java-_f673aeab"
+    },
+    {
+      "type": "java",
+      "name": "Hello",
+      "request": "launch",
+      "mainClass": "newStudy.Hello",
+      "projectName": "Tu_hoc_Java-_f673aeab"
+    },
+    {
+      "type": "java",
+      "name": "a",
+      "request": "launch",
+      "mainClass": "basic_java.a",
+      "projectName": "Tu_hoc_Java-_f673aeab"
+    },
+    {
+      "type": "java",
+      "name": "bai1",
+      "request": "launch",
+      "mainClass": "basic_java.bai1",
+      "projectName": "Tu_hoc_Java-_f673aeab"
+    },
+    {
+      "type": "java",
+      "name": "array",
+      "request": "launch",
+      "mainClass": "basic_java.array",
+      "projectName": "Tu_hoc_Java-_f673aeab"
+    }
+  ]
+}

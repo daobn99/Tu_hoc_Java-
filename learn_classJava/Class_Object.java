@@ -1,11 +1,8 @@
-import java.lang.reflect.Modifier;
-
-import basic_java.whileDoForLoop;
-
 
 class Class_Object {
 
     int x = 1;
+
     public static void main(String[] args) {
         Student st1 = new Student();
         st1.age = 16;
@@ -17,10 +14,8 @@ class Class_Object {
 
         Class_Object myobj = new Class_Object();
         myobj.x = 20;
-        System.out.println(myobj.x);   
+        System.out.println(myobj.x);
 
-
-        
     }
-    
+
 }
